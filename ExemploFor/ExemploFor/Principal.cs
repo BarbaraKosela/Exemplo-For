@@ -12,7 +12,10 @@ namespace ExemploFor
         {
             //new Exemplo01();
             //new Exemplo02();
-            new Exemplo03();
+            //new Exemplo03();
+            new Exemplo04();
+            //new Exemplo05();
+            //new Exemplo06();
         }
     }
 }
