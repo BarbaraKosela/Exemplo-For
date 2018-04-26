@@ -1,0 +1,12 @@
+C:\Users\104962\Documents\GitHub\Lista-Vetor\ExemploFor\ExemploFor\bin\Debug\ExemploFor.exe.config
+C:\Users\104962\Documents\GitHub\Lista-Vetor\ExemploFor\ExemploFor\obj\Debug\ExemploFor.csprojResolveAssemblyReference.cache
+C:\Users\104962\Documents\GitHub\Lista-Vetor\ExemploFor\ExemploFor\bin\Debug\ExemploFor.exe
+C:\Users\104962\Documents\GitHub\Lista-Vetor\ExemploFor\ExemploFor\bin\Debug\ExemploFor.pdb
+C:\Users\104962\Documents\GitHub\Lista-Vetor\ExemploFor\ExemploFor\obj\Debug\ExemploFor.exe
+C:\Users\104962\Documents\GitHub\Lista-Vetor\ExemploFor\ExemploFor\obj\Debug\ExemploFor.pdb
+C:\Users\104962\Documents\GitHub\Exemplo-For\ExemploFor\ExemploFor\bin\Debug\ExemploFor.exe.config
+C:\Users\104962\Documents\GitHub\Exemplo-For\ExemploFor\ExemploFor\obj\Debug\ExemploFor.exe
+C:\Users\104962\Documents\GitHub\Exemplo-For\ExemploFor\ExemploFor\obj\Debug\ExemploFor.pdb
+C:\Users\104962\Documents\GitHub\Exemplo-For\ExemploFor\ExemploFor\bin\Debug\ExemploFor.exe
+C:\Users\104962\Documents\GitHub\Exemplo-For\ExemploFor\ExemploFor\bin\Debug\ExemploFor.pdb
+C:\Users\104962\Documents\GitHub\Exemplo-For\ExemploFor\ExemploFor\obj\Debug\ExemploFor.csprojResolveAssemblyReference.cache
