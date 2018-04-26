@@ -11,7 +11,8 @@ namespace ExemploVetorComFor
         static void Main(string[] args)
         {
             //new Exemplo01();
-            new Exemplo02();
+            //new Exemplo02();
+            new Exemplo03();
         }
     }
 }
