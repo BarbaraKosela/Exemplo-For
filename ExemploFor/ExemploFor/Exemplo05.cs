@@ -9,7 +9,7 @@ namespace ExemploFor
     {
         public Exemplo05()
         {
-            int tamanho = 15;
+            int tamanho = 10;
             for (int i = 0; i <= tamanho; i++)
             {
                 for (int j = 0; j < tamanho; j++)
