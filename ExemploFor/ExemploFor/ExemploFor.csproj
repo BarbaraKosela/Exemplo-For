@@ -47,6 +47,7 @@
     <Compile Include="Exemplo04.cs" />
     <Compile Include="Exemplo05.cs" />
     <Compile Include="Exemplo06.cs" />
+    <Compile Include="Exemplo07.cs" />
     <Compile Include="Principal.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -19,6 +19,7 @@ namespace ExemploFor
                         Console.WriteLine("{0} x {1} = {2}", j, i, tabuada);
                     }
                 
+
                 
 
 

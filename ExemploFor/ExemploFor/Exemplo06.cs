@@ -9,18 +9,23 @@ namespace ExemploFor
     {
         public Exemplo06()
         {
-            int numero = 0;
-            for (int i = 0; i <= 10; i++)
+            int numero = 10;
+            for (int i = 0; i < numero; i++ )
             {
-                if (numero < 10)
+
+                if ((i == 1) || (i == 10))
                 {
-                    Console.WriteLine("*");
+                    Console.WriteLine("* ");
+                    
                 }
-                else if (numero > 10)
+
+                else
                 {
-                    Console.WriteLine("* * * * * * * * * * *");
+                    Console.WriteLine("*                 *");
                 }
+
             }
+            
         }
     }
 }
