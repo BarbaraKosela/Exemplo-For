@@ -13,7 +13,7 @@ namespace ExemploFor
             for (int i = 0; i < numero; i++ )
             {
 
-                if ((i == 1) || (i == 10))
+                if ((i == 1) || (i == 1))
                 {
                     Console.WriteLine("* ");
                     
