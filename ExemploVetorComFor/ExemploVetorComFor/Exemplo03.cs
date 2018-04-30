@@ -54,7 +54,7 @@ namespace ExemploVetorComFor
                 }
             }
 
-            Console.WriteLine("Fazenda com o menor nome: " + menorNome.Length);
+            Console.WriteLine("Fazenda com o menor nome: " + menorNome);
 
             //  Console.WriteLine("Fazendas: " + fazendas.Length);
             
